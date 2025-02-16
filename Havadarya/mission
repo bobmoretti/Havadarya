@@ -244,13 +244,13 @@ mission =
 						["layerName"] = "Blue",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0x0000ffff",
+						["mapX"] = 109197.84927626,
 						["name"] = "HQ + MG Teams",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "HQ + MG Teams",
 						["angle"] = 0,
-						["mapX"] = 109197.84927626,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0x0000ffff",
 					}, -- end of [1]
 					[2] = 
 					{
@@ -260,13 +260,13 @@ mission =
 						["layerName"] = "Blue",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0x0000ffff",
+						["mapX"] = 109041.1630554,
 						["name"] = "AT Plt Arrives 00:30",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "AT Plt Arrives 00:30",
 						["angle"] = 0,
-						["mapX"] = 109041.1630554,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0x0000ffff",
 					}, -- end of [2]
 					[4] = 
 					{
@@ -276,13 +276,13 @@ mission =
 						["layerName"] = "Blue",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0x0000ffff",
+						["mapX"] = 89138.13545121,
 						["name"] = "AT Plt PZ",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "AT Plt PZ",
 						["angle"] = 0,
-						["mapX"] = 89138.13545121,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0x0000ffff",
 					}, -- end of [4]
 					[3] = 
 					{
@@ -292,13 +292,13 @@ mission =
 						["layerName"] = "Blue",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0x0000ffff",
+						["mapX"] = 109141.92618273,
 						["name"] = "TOW HMMWVs",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "TOW HMMWVs",
 						["angle"] = 0,
-						["mapX"] = 109141.92618273,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0x0000ffff",
 					}, -- end of [3]
 				}, -- end of ["objects"]
 			}, -- end of [2]
@@ -322,13 +322,13 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 122739.24352678,
 						["name"] = "BRDM Squad",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "BRDM Squad",
 						["angle"] = 0,
-						["mapX"] = 122739.24352678,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [7]
 					[1] = 
 					{
@@ -338,13 +338,13 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 119362.07714427,
 						["name"] = "Special Recon Plt",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "Special Recon Plt",
 						["angle"] = 0,
-						["mapX"] = 119362.07714427,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [1]
 					[2] = 
 					{
@@ -354,13 +354,13 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 123672.02506918,
 						["name"] = "1st Recon APC Plt",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "1st Recon APC Plt",
 						["angle"] = 0,
-						["mapX"] = 123672.02506918,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [2]
 					[4] = 
 					{
@@ -370,13 +370,13 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 126404.71131719,
 						["name"] = "Recon Co",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "Recon Co",
 						["angle"] = 0,
-						["mapX"] = 126404.71131719,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [4]
 					[8] = 
 					{
@@ -386,21 +386,20 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 122948.17429851,
 						["name"] = "BMP Squad",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "BMP Squad",
 						["angle"] = 0,
-						["mapX"] = 122948.17429851,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [8]
 					[9] = 
 					{
 						["visible"] = true,
-						["layerName"] = "Red",
-						["mapY"] = 10444.040327669,
 						["primitiveType"] = "Polygon",
-						["length"] = 0,
+						["mapY"] = 10444.040327669,
+						["layerName"] = "Red",
 						["points"] = 
 						{
 							[6] = 
@@ -444,14 +443,15 @@ mission =
 								["x"] = 0,
 							}, -- end of [7]
 						}, -- end of ["points"]
+						["length"] = 0,
 						["thickness"] = 8,
-						["polygonMode"] = "arrow",
-						["style"] = "solid",
+						["colorString"] = "0xff0000ff",
+						["name"] = "Polygon-2",
 						["mapX"] = 110041.58664063,
 						["angle"] = 0,
 						["fillColorString"] = "0xff000080",
-						["name"] = "Polygon-2",
-						["colorString"] = "0xff0000ff",
+						["style"] = "solid",
+						["polygonMode"] = "arrow",
 					}, -- end of [9]
 					[5] = 
 					{
@@ -461,13 +461,13 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 123173.75390415,
 						["name"] = "Mortars",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "Mortars",
 						["angle"] = 0,
-						["mapX"] = 123173.75390415,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [5]
 					[3] = 
 					{
@@ -477,13 +477,13 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 124592.50221649,
 						["name"] = "2nd Recon APC Plt",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "2nd Recon APC Plt",
 						["angle"] = 0,
-						["mapX"] = 124592.50221649,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [3]
 					[6] = 
 					{
@@ -493,13 +493,13 @@ mission =
 						["layerName"] = "Red",
 						["fontSize"] = 12,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 122725.31480866,
 						["name"] = "BTR Squad",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "BTR Squad",
 						["angle"] = 0,
-						["mapX"] = 122725.31480866,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [6]
 				}, -- end of ["objects"]
 			}, -- end of [1]
@@ -523,13 +523,13 @@ mission =
 						["layerName"] = "Author",
 						["fontSize"] = 24,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0x0000ffff",
+						["mapX"] = 105745.59544472,
 						["name"] = "Text Box-1-1-1",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "A Co., 1-504th PIR defends Havardaya",
 						["angle"] = 0,
-						["mapX"] = 105745.59544472,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0x0000ffff",
 					}, -- end of [6]
 					[2] = 
 					{
@@ -540,17 +540,16 @@ mission =
 						["name"] = "Icon-1",
 						["scale"] = 1,
 						["mapX"] = 118398.00987734,
-						["angle"] = 0,
 						["file"] = "P91000002.png",
+						["angle"] = 0,
 						["layerName"] = "Author",
 					}, -- end of [2]
 					[3] = 
 					{
 						["visible"] = true,
-						["layerName"] = "Author",
-						["mapY"] = -24587.812175622,
 						["primitiveType"] = "Polygon",
-						["length"] = 7006.4099710997,
+						["mapY"] = -24587.812175622,
+						["layerName"] = "Author",
 						["points"] = 
 						{
 							[6] = 
@@ -594,22 +593,22 @@ mission =
 								["x"] = -875.80124638746,
 							}, -- end of [7]
 						}, -- end of ["points"]
+						["length"] = 7006.4099710997,
 						["thickness"] = 8,
-						["polygonMode"] = "arrow",
-						["style"] = "solid",
+						["colorString"] = "0x0000ffff",
+						["name"] = "Polygon-4",
 						["mapX"] = 105770.60804419,
 						["angle"] = -9.1011242852352,
 						["fillColorString"] = "0x0000ff80",
-						["name"] = "Polygon-4",
-						["colorString"] = "0x0000ffff",
+						["style"] = "solid",
+						["polygonMode"] = "arrow",
 					}, -- end of [3]
 					[1] = 
 					{
 						["visible"] = true,
-						["layerName"] = "Author",
-						["mapY"] = 10427.45157115,
 						["primitiveType"] = "Polygon",
-						["length"] = 8265.9288048225,
+						["mapY"] = 10427.45157115,
+						["layerName"] = "Author",
 						["points"] = 
 						{
 							[6] = 
@@ -653,14 +652,15 @@ mission =
 								["x"] = -1033.2411006028,
 							}, -- end of [7]
 						}, -- end of ["points"]
+						["length"] = 8265.9288048225,
 						["thickness"] = 8,
-						["polygonMode"] = "arrow",
-						["style"] = "solid",
+						["colorString"] = "0xff0000ff",
+						["name"] = "Polygon-1",
 						["mapX"] = 116283.89534787,
 						["angle"] = 152.65771666674,
 						["fillColorString"] = "0xff000080",
-						["name"] = "Polygon-1",
-						["colorString"] = "0xff0000ff",
+						["style"] = "solid",
+						["polygonMode"] = "arrow",
 					}, -- end of [1]
 					[4] = 
 					{
@@ -670,13 +670,13 @@ mission =
 						["layerName"] = "Author",
 						["fontSize"] = 24,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0xff0000ff",
+						["mapX"] = 108725.9574094,
 						["name"] = "Text Box-1",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "Soviet Recon Co. attack expected 0720",
 						["angle"] = 0,
-						["mapX"] = 108725.9574094,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0xff0000ff",
 					}, -- end of [4]
 					[5] = 
 					{
@@ -686,13 +686,13 @@ mission =
 						["layerName"] = "Author",
 						["fontSize"] = 24,
 						["primitiveType"] = "TextBox",
-						["colorString"] = "0x0000ffff",
+						["mapX"] = 100397.245562,
 						["name"] = "Text Box-1-1",
 						["fillColorString"] = "0xffffff80",
 						["text"] = "US Reinforcements expected 0800",
 						["angle"] = 0,
-						["mapX"] = 100397.245562,
 						["font"] = "DejaVuLGCSansCondensed.ttf",
+						["colorString"] = "0x0000ffff",
 					}, -- end of [5]
 				}, -- end of ["objects"]
 			}, -- end of [5]
@@ -792,7 +792,7 @@ mission =
 				}, -- end of ["color"]
 				["properties"] = {},
 				["hidden"] = false,
-				["y"] = -6734.2176131447,
+				["y"] = -6734.2176131446,
 				["x"] = 109614.83810669,
 				["name"] = "building 1",
 				["type"] = 2,
@@ -834,8 +834,8 @@ mission =
 				}, -- end of ["color"]
 				["properties"] = {},
 				["hidden"] = false,
-				["y"] = -6726.8876918922,
-				["x"] = 109594.88526717,
+				["y"] = -6810.1981968496,
+				["x"] = 110032.70919719,
 				["name"] = "Trigger Hidden Infantry Spawn",
 				["type"] = 2,
 				["heading"] = 0,
@@ -843,23 +843,23 @@ mission =
 				{
 					[1] = 
 					{
-						["y"] = -7150.4773496274,
-						["x"] = 109258.05270345,
+						["y"] = -7201.9783213544,
+						["x"] = 109121.68226646,
 					}, -- end of [1]
 					[2] = 
 					{
-						["y"] = -6216.1701833318,
-						["x"] = 109411.54602363,
+						["y"] = -5975.8399791436,
+						["x"] = 109251.11769773,
 					}, -- end of [2]
 					[3] = 
 					{
-						["y"] = -6427.5015661844,
-						["x"] = 109906.87712449,
+						["y"] = -6399.1495112804,
+						["x"] = 110995.38298782,
 					}, -- end of [3]
 					[4] = 
 					{
-						["y"] = -7113.4016684252,
-						["x"] = 109803.06521713,
+						["y"] = -7663.8249756199,
+						["x"] = 110762.65383675,
 					}, -- end of [4]
 				}, -- end of ["verticies"]
 			}, -- end of [2]
@@ -1044,8 +1044,8 @@ mission =
 				}, -- end of ["color"]
 				["properties"] = {},
 				["hidden"] = false,
-				["y"] = -6822.3153070509,
-				["x"] = 109621.97211655,
+				["y"] = -6816.4240937802,
+				["x"] = 109599.24886537,
 				["name"] = "building 6",
 				["type"] = 2,
 				["heading"] = 0,
@@ -1053,23 +1053,23 @@ mission =
 				{
 					[1] = 
 					{
-						["y"] = -6834.4364404406,
-						["x"] = 109608.91545944,
+						["y"] = -6828.54522717,
+						["x"] = 109586.19220825,
 					}, -- end of [1]
 					[2] = 
 					{
-						["y"] = -6805.6385799039,
-						["x"] = 109614.28455209,
+						["y"] = -6799.7473666333,
+						["x"] = 109591.5613009,
 					}, -- end of [2]
 					[3] = 
 					{
-						["y"] = -6809.70607433,
-						["x"] = 109634.94742377,
+						["y"] = -6803.8148610594,
+						["x"] = 109612.22417258,
 					}, -- end of [3]
 					[4] = 
 					{
-						["y"] = -6839.480133529,
-						["x"] = 109629.74103091,
+						["y"] = -6833.5889202584,
+						["x"] = 109607.01777972,
 					}, -- end of [4]
 				}, -- end of ["verticies"]
 			}, -- end of [7]
@@ -1161,9 +1161,9 @@ mission =
 	}, -- end of ["triggers"]
 	["map"] = 
 	{
-		["centerY"] = -5979.1264780539,
-		["zoom"] = 5324.2695415461,
-		["centerX"] = 109671.5335954,
+		["centerY"] = -5856.829143103,
+		["zoom"] = 12817.651494617,
+		["centerX"] = 109598.35388605,
 	}, -- end of ["map"]
 	["coalitions"] = 
 	{
@@ -2549,13 +2549,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 19,
+											["alt"] = 39,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6821.6386886061,
-											["x"] = 109628.62235529,
+											["y"] = -7020.1637347155,
+											["x"] = 110143.35756063,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -2582,8 +2582,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier RPG",
 										["unitId"] = 192,
-										["y"] = -6821.6386886061,
-										["x"] = 109628.62235529,
+										["y"] = -7020.1637347155,
+										["x"] = 110143.35756063,
 										["name"] = "3rd Sq 1-2-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -2594,8 +2594,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 193,
-										["y"] = -6812.6231466624,
-										["x"] = 109629.30535089,
+										["y"] = -7011.1481927718,
+										["x"] = 110144.04055623,
 										["name"] = "3rd Sq 1-2-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -2606,8 +2606,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 194,
-										["y"] = -6832.1568208736,
-										["x"] = 109613.59645205,
+										["y"] = -7056.3526162351,
+										["x"] = 110138.30794926,
 										["name"] = "3rd Sq 1-2-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -2618,8 +2618,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 195,
-										["y"] = -6835.3464615429,
-										["x"] = 109624.99226603,
+										["y"] = -7038.6789764232,
+										["x"] = 110133.25833788,
 										["name"] = "3rd Sq 1-2-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -2630,8 +2630,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 196,
-										["y"] = -6822.0484859671,
-										["x"] = 109614.00624941,
+										["y"] = -7077.3926636303,
+										["x"] = 110136.62474546,
 										["name"] = "3rd Sq 1-2-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -2642,15 +2642,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 197,
-										["y"] = -6811.5303536996,
-										["x"] = 109617.2846283,
+										["y"] = -7015.6136057844,
+										["x"] = 110067.55704116,
 										["name"] = "3rd Sq 1-2-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -6821.6386886061,
-								["x"] = 109628.62235529,
+								["y"] = -7020.1637347155,
+								["x"] = 110143.35756063,
 								["name"] = "1 Plt 3rd Sq RPG",
 								["start_time"] = 0,
 							}, -- end of [15]
@@ -3148,13 +3148,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 37.489185669873,
+											["alt"] = 15,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6489.5176996345,
-											["x"] = 109006.07679669,
+											["y"] = -5486.6385370625,
+											["x"] = 109068.62485194,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3180,8 +3180,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 267,
-										["y"] = -6489.5176996345,
-										["x"] = 109006.07679669,
+										["y"] = -5486.6385370625,
+										["x"] = 109068.62485194,
 										["name"] = "1 Plt MG 2nd Team-1-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3192,8 +3192,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 268,
-										["y"] = -6504.0559390079,
-										["x"] = 108997.99999704,
+										["y"] = -5459.3530076156,
+										["x"] = 109054.68788359,
 										["name"] = "1 Plt MG 2nd Team-1-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3204,15 +3204,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 269,
-										["y"] = -6478.2101801218,
-										["x"] = 108989.92319739,
+										["y"] = -5504.6849013296,
+										["x"] = 109050.56680234,
 										["name"] = "1 Plt MG 2nd Team-1-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [3]
 								}, -- end of ["units"]
-								["y"] = -6489.5176996345,
-								["x"] = 109006.07679669,
+								["y"] = -5486.6385370625,
+								["x"] = 109068.62485194,
 								["name"] = "2 Plt MG 2nd Team-1",
 								["start_time"] = 0,
 							}, -- end of [20]
@@ -3230,13 +3230,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 34.182790647478,
+											["alt"] = 11,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6435.1339153115,
-											["x"] = 108895.69386812,
+											["y"] = -5871.693719479,
+											["x"] = 108999.74116692,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3262,8 +3262,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier RPG",
 										["unitId"] = 270,
-										["y"] = -6435.1339153115,
-										["x"] = 108895.69386812,
+										["y"] = -5871.693719479,
+										["x"] = 108999.74116692,
 										["name"] = "1 Plt 3rd Sq 1-7-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3274,8 +3274,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 271,
-										["y"] = -6444.8260748938,
-										["x"] = 108885.46325522,
+										["y"] = -5897.9151725124,
+										["x"] = 108991.88223077,
 										["name"] = "1 Plt 3rd Sq 1-7-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3286,8 +3286,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 272,
-										["y"] = -6424.3648491089,
-										["x"] = 108875.23264233,
+										["y"] = -5860.9246532764,
+										["x"] = 108979.27994113,
 										["name"] = "1 Plt 3rd Sq 1-7-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3298,8 +3298,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 273,
-										["y"] = -6458.8258609571,
-										["x"] = 108873.07882909,
+										["y"] = -5895.3856651246,
+										["x"] = 108977.12612789,
 										["name"] = "1 Plt 3rd Sq 1-7-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3310,8 +3310,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 274,
-										["y"] = -6441.0569017229,
-										["x"] = 108863.92512282,
+										["y"] = -5877.6167058904,
+										["x"] = 108967.97242162,
 										["name"] = "1 Plt 3rd Sq 1-7-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3322,15 +3322,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 275,
-										["y"] = -6456.1335944065,
-										["x"] = 108854.77141655,
+										["y"] = -5892.693398574,
+										["x"] = 108958.81871535,
 										["name"] = "1 Plt 3rd Sq 1-7-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -6435.1339153115,
-								["x"] = 108895.69386812,
+								["y"] = -5871.693719479,
+								["x"] = 108999.74116692,
 								["name"] = "2 Plt 1 Sq RPG",
 								["start_time"] = 0,
 							}, -- end of [21]
@@ -3348,13 +3348,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 36.657731991893,
+											["alt"] = 18,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6103.9851295825,
-											["x"] = 108965.69279843,
+											["y"] = -4433.7255552299,
+											["x"] = 109942.00293033,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3380,8 +3380,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 276,
-										["y"] = -6103.9851295825,
-										["x"] = 108965.69279843,
+										["y"] = -4433.7255552299,
+										["x"] = 109942.00293033,
 										["name"] = "1 Plt 3rd Sq 1-8-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3392,8 +3392,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 277,
-										["y"] = -6089.2903032328,
-										["x"] = 108981.53817273,
+										["y"] = -4419.0307288802,
+										["x"] = 109957.84830463,
 										["name"] = "1 Plt 3rd Sq 1-8-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3404,8 +3404,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 278,
-										["y"] = -6116.7514220494,
-										["x"] = 108972.92291977,
+										["y"] = -4485.7686712685,
+										["x"] = 109932.89538502,
 										["name"] = "1 Plt 3rd Sq 1-8-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3416,8 +3416,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 279,
-										["y"] = -6116.2129687392,
-										["x"] = 108954.61550723,
+										["y"] = -4445.9533943866,
+										["x"] = 109930.92563913,
 										["name"] = "1 Plt 3rd Sq 1-8-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3428,8 +3428,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 280,
-										["y"] = -6111.9053422582,
-										["x"] = 108936.84654799,
+										["y"] = -4468.8546585559,
+										["x"] = 109927.69107341,
 										["name"] = "1 Plt 3rd Sq 1-8-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3440,15 +3440,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 281,
-										["y"] = -6109.7515290177,
-										["x"] = 108923.38521524,
+										["y"] = -4426.5696267746,
+										["x"] = 109930.29322922,
 										["name"] = "1 Plt 3rd Sq 1-8-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -6103.9851295825,
-								["x"] = 108965.69279843,
+								["y"] = -4433.7255552299,
+								["x"] = 109942.00293033,
 								["name"] = "2 Plt 3rd Sq",
 								["start_time"] = 0,
 							}, -- end of [22]
@@ -3466,13 +3466,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 36.187370765612,
+											["alt"] = 14,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6360.8273585138,
-											["x"] = 108984.00021098,
+											["y"] = -5602.2889802091,
+											["x"] = 109035.94408163,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3498,8 +3498,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 282,
-										["y"] = -6360.8273585138,
-										["x"] = 108984.00021098,
+										["y"] = -5602.2889802091,
+										["x"] = 109035.94408163,
 										["name"] = "1 Plt 3rd Sq 1-9-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3510,8 +3510,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 283,
-										["y"] = -6377.5194111277,
-										["x"] = 108974.3080514,
+										["y"] = -5622.0902494371,
+										["x"] = 109037.16126189,
 										["name"] = "1 Plt 3rd Sq 1-9-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3522,8 +3522,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 284,
-										["y"] = -6375.9040511974,
-										["x"] = 108957.61599878,
+										["y"] = -5622.2722943013,
+										["x"] = 109018.3397335,
 										["name"] = "1 Plt 3rd Sq 1-9-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3534,8 +3534,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 285,
-										["y"] = -6358.1350919631,
-										["x"] = 108958.6929054,
+										["y"] = -5591.8215299703,
+										["x"] = 109040.22622037,
 										["name"] = "1 Plt 3rd Sq 1-9-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3546,8 +3546,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 286,
-										["y"] = -6382.903944229,
-										["x"] = 108933.92405314,
+										["y"] = -5636.0702968888,
+										["x"] = 109026.90401097,
 										["name"] = "1 Plt 3rd Sq 1-9-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3558,15 +3558,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 287,
-										["y"] = -6351.1351989314,
-										["x"] = 108971.07733153,
+										["y"] = -5573.7776163681,
+										["x"] = 109038.62528107,
 										["name"] = "1 Plt 3rd Sq 1-9-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -6360.8273585138,
-								["x"] = 108984.00021098,
+								["y"] = -5602.2889802091,
+								["x"] = 109035.94408163,
 								["name"] = "2 Plt 1 Sq 1-9",
 								["start_time"] = 0,
 							}, -- end of [23]
@@ -3584,13 +3584,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 36.237018623334,
+											["alt"] = 15,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6283.8285351654,
-											["x"] = 108984.53866429,
+											["y"] = -5583.6698210835,
+											["x"] = 109160.84826281,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3616,8 +3616,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier RPG",
 										["unitId"] = 288,
-										["y"] = -6283.8285351654,
-										["x"] = 108984.53866429,
+										["y"] = -5583.6698210835,
+										["x"] = 109160.84826281,
 										["name"] = "1 Plt 3rd Sq 1-10-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3628,8 +3628,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 289,
-										["y"] = -6292.9822414376,
-										["x"] = 108978.07722457,
+										["y"] = -5624.2322538236,
+										["x"] = 109156.4937635,
 										["name"] = "1 Plt 3rd Sq 1-10-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3640,8 +3640,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 290,
-										["y"] = -6277.905548754,
-										["x"] = 108968.92351829,
+										["y"] = -5577.7468346721,
+										["x"] = 109145.23311681,
 										["name"] = "1 Plt 3rd Sq 1-10-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3652,8 +3652,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 291,
-										["y"] = -6295.1360546781,
-										["x"] = 108961.92362526,
+										["y"] = -5589.5028324257,
+										["x"] = 109140.84936678,
 										["name"] = "1 Plt 3rd Sq 1-10-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3664,8 +3664,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 292,
-										["y"] = -6273.5979222729,
-										["x"] = 108956.53909216,
+										["y"] = -5567.8373617261,
+										["x"] = 109158.3484008,
 										["name"] = "1 Plt 3rd Sq 1-10-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3676,15 +3676,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 293,
-										["y"] = -6288.6746149565,
-										["x"] = 108927.46261341,
+										["y"] = -5595.335843768,
+										["x"] = 109151.68210213,
 										["name"] = "1 Plt 3rd Sq 1-10-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -6283.8285351654,
-								["x"] = 108984.53866429,
+								["y"] = -5583.6698210835,
+								["x"] = 109160.84826281,
 								["name"] = "2 Plt 2 Sq RPG",
 								["start_time"] = 0,
 							}, -- end of [24]
@@ -3702,13 +3702,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 8,
+											["alt"] = 17,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6127.5444358308,
-											["x"] = 109022.31241705,
+											["y"] = -4611.843051069,
+											["x"] = 109936.77985473,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3734,8 +3734,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier RPG",
 										["unitId"] = 294,
-										["y"] = -6127.5444358308,
-										["x"] = 109022.31241705,
+										["y"] = -4611.843051069,
+										["x"] = 109936.77985473,
 										["name"] = "1 Plt 3rd Sq 1-11-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3746,8 +3746,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 295,
-										["y"] = -6135.9381168408,
-										["x"] = 109021.17676081,
+										["y"] = -4620.236732079,
+										["x"] = 109935.64419849,
 										["name"] = "1 Plt 3rd Sq 1-11-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3758,8 +3758,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 296,
-										["y"] = -6126.7844105687,
-										["x"] = 109036.7919068,
+										["y"] = -4641.0742003461,
+										["x"] = 109936.25786992,
 										["name"] = "1 Plt 3rd Sq 1-11-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3770,8 +3770,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 297,
-										["y"] = -6112.7846245053,
-										["x"] = 109015.79222771,
+										["y"] = -4592.5296131538,
+										["x"] = 109937.30183954,
 										["name"] = "1 Plt 3rd Sq 1-11-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3782,8 +3782,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 298,
-										["y"] = -6135.9381168408,
-										["x"] = 108961.94689669,
+										["y"] = -4656.7337446017,
+										["x"] = 109937.82382435,
 										["name"] = "1 Plt 3rd Sq 1-11-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3794,15 +3794,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 299,
-										["y"] = -6127.8613171889,
-										["x"] = 108989.94646882,
+										["y"] = -4573.2161752386,
+										["x"] = 109938.34580916,
 										["name"] = "1 Plt 3rd Sq 1-11-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -6127.5444358308,
-								["x"] = 109022.31241705,
+								["y"] = -4611.843051069,
+								["x"] = 109936.77985473,
 								["name"] = "2 Plt 3rd Sq RPG",
 								["start_time"] = 0,
 							}, -- end of [25]
@@ -3820,13 +3820,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 35.004970310294,
+											["alt"] = 9,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6523.4402581726,
-											["x"] = 108925.84725348,
+											["y"] = -5414.2217969686,
+											["x"] = 109000.78423295,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3852,8 +3852,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 300,
-										["y"] = -6523.4402581726,
-										["x"] = 108925.84725348,
+										["y"] = -5414.2217969686,
+										["x"] = 109000.78423295,
 										["name"] = "1 Plt MG 2nd Team-2-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3864,8 +3864,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 301,
-										["y"] = -6534.2093243751,
-										["x"] = 108917.23200052,
+										["y"] = -5451.7513642491,
+										["x"] = 108984.93117363,
 										["name"] = "1 Plt MG 2nd Team-2-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3876,15 +3876,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 302,
-										["y"] = -6521.286444932,
-										["x"] = 108908.61674756,
+										["y"] = -5412.067983728,
+										["x"] = 108983.55372703,
 										["name"] = "1 Plt MG 2nd Team-2-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [3]
 								}, -- end of ["units"]
-								["y"] = -6523.4402581726,
-								["x"] = 108925.84725348,
+								["y"] = -5414.2217969686,
+								["x"] = 109000.78423295,
 								["name"] = "2 Plt MG 2nd Team-2",
 								["start_time"] = 0,
 							}, -- end of [26]
@@ -3902,13 +3902,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 36.701726939452,
+											["alt"] = 13,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -6225.1371243614,
-											["x"] = 109004.99989007,
+											["y"] = -4299.9152914198,
+											["x"] = 109656.14293103,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -3934,8 +3934,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 303,
-										["y"] = -6225.1371243614,
-										["x"] = 109004.99989007,
+										["y"] = -4299.9152914198,
+										["x"] = 109656.14293103,
 										["name"] = "1 Plt 3rd Sq 1-12-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3946,8 +3946,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 304,
-										["y"] = -6235.3677372538,
-										["x"] = 109000.15381028,
+										["y"] = -4310.1459043122,
+										["x"] = 109651.29685124,
 										["name"] = "1 Plt 3rd Sq 1-12-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3958,8 +3958,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 305,
-										["y"] = -6222.9833111209,
-										["x"] = 108987.23093084,
+										["y"] = -4297.7614781793,
+										["x"] = 109638.3739718,
 										["name"] = "1 Plt 3rd Sq 1-12-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3970,8 +3970,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 306,
-										["y"] = -6208.4450717474,
-										["x"] = 108993.69237056,
+										["y"] = -4283.2232388058,
+										["x"] = 109644.83541152,
 										["name"] = "1 Plt 3rd Sq 1-12-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3982,8 +3982,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 307,
-										["y"] = -6231.0601107728,
-										["x"] = 108984.00021098,
+										["y"] = -4305.8382778312,
+										["x"] = 109635.14325194,
 										["name"] = "1 Plt 3rd Sq 1-12-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -3994,15 +3994,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 308,
-										["y"] = -6212.2142449183,
-										["x"] = 109006.07679669,
+										["y"] = -4286.9924119767,
+										["x"] = 109657.21983765,
 										["name"] = "1 Plt 3rd Sq 1-12-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -6225.1371243614,
-								["x"] = 109004.99989007,
+								["y"] = -4299.9152914198,
+								["x"] = 109656.14293103,
 								["name"] = "2 Plt 2 Sq ",
 								["start_time"] = 0,
 							}, -- end of [27]
@@ -4020,13 +4020,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 44.679248230259,
+											["alt"] = 50,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5787.0232653639,
-											["x"] = 109527.01203324,
+											["y"] = -5058.4208514462,
+											["x"] = 110957.54473188,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4052,10 +4052,10 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 309,
-										["y"] = -5787.0232653639,
-										["x"] = 109527.01203324,
+										["y"] = -5058.4208514462,
+										["x"] = 110957.54473188,
 										["name"] = "1 Plt MG 2nd Team-4-1",
-										["heading"] = 0,
+										["heading"] = 1.2042771838761,
 										["playerCanDrive"] = false,
 									}, -- end of [1]
 									[2] = 
@@ -4064,10 +4064,10 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 310,
-										["y"] = -5801.5615047374,
-										["x"] = 109518.93523359,
+										["y"] = -5055.0043032443,
+										["x"] = 110993.07683318,
 										["name"] = "1 Plt MG 2nd Team-4-2",
-										["heading"] = 0,
+										["heading"] = 1.553343034275,
 										["playerCanDrive"] = false,
 									}, -- end of [2]
 									[3] = 
@@ -4076,15 +4076,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 311,
-										["y"] = -5775.7157458512,
-										["x"] = 109510.85843394,
+										["y"] = -5072.7703538941,
+										["x"] = 110924.74586915,
 										["name"] = "1 Plt MG 2nd Team-4-3",
-										["heading"] = 0,
+										["heading"] = 1.535889741755,
 										["playerCanDrive"] = false,
 									}, -- end of [3]
 								}, -- end of ["units"]
-								["y"] = -5787.0232653639,
-								["x"] = 109527.01203324,
+								["y"] = -5058.4208514462,
+								["x"] = 110957.54473188,
 								["name"] = "3 Plt MG 2nd Team-4",
 								["start_time"] = 0,
 							}, -- end of [28]
@@ -4102,13 +4102,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 45.163804912935,
+											["alt"] = 12,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5581.3341008948,
-											["x"] = 109505.47390083,
+											["y"] = -3995.2519486002,
+											["x"] = 109508.7439445,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4134,8 +4134,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 312,
-										["y"] = -5581.3341008948,
-										["x"] = 109505.47390083,
+										["y"] = -3995.2519486002,
+										["x"] = 109508.7439445,
 										["name"] = "1 Plt 3rd Sq 1-13-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4146,8 +4146,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 313,
-										["y"] = -5590.487807167,
-										["x"] = 109499.01246111,
+										["y"] = -4004.4056548724,
+										["x"] = 109502.28250478,
 										["name"] = "1 Plt 3rd Sq 1-13-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4158,8 +4158,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 314,
-										["y"] = -5575.4111144834,
-										["x"] = 109489.85875484,
+										["y"] = -3989.3289621888,
+										["x"] = 109493.12879851,
 										["name"] = "1 Plt 3rd Sq 1-13-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4170,8 +4170,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 315,
-										["y"] = -5592.6416204075,
-										["x"] = 109482.85886181,
+										["y"] = -4006.5594681129,
+										["x"] = 109486.12890548,
 										["name"] = "1 Plt 3rd Sq 1-13-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4182,8 +4182,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 316,
-										["y"] = -5571.1034880024,
-										["x"] = 109477.47432871,
+										["y"] = -3985.0213357078,
+										["x"] = 109480.74437238,
 										["name"] = "1 Plt 3rd Sq 1-13-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4194,15 +4194,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 317,
-										["y"] = -5586.180180686,
-										["x"] = 109448.39784996,
+										["y"] = -4000.0980283914,
+										["x"] = 109451.66789363,
 										["name"] = "1 Plt 3rd Sq 1-13-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -5581.3341008948,
-								["x"] = 109505.47390083,
+								["y"] = -3995.2519486002,
+								["x"] = 109508.7439445,
 								["name"] = "3 Plt 2 Sq ",
 								["start_time"] = 0,
 							}, -- end of [29]
@@ -4220,13 +4220,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 45.53052357189,
+											["alt"] = 10,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5732.6394810409,
-											["x"] = 109416.62910466,
+											["y"] = -3162.7900103387,
+											["x"] = 109279.06516419,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4252,8 +4252,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier AK",
 										["unitId"] = 318,
-										["y"] = -5732.6394810409,
-										["x"] = 109416.62910466,
+										["y"] = -3162.7900103387,
+										["x"] = 109279.06516419,
 										["name"] = "1 Plt 3rd Sq 1-14-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4264,8 +4264,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 319,
-										["y"] = -5742.3316406232,
-										["x"] = 109406.39849177,
+										["y"] = -3172.482169921,
+										["x"] = 109268.8345513,
 										["name"] = "1 Plt 3rd Sq 1-14-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4276,8 +4276,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 320,
-										["y"] = -5721.8704148383,
-										["x"] = 109396.16787888,
+										["y"] = -3152.0209441361,
+										["x"] = 109258.60393841,
 										["name"] = "1 Plt 3rd Sq 1-14-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4288,8 +4288,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 321,
-										["y"] = -5756.3314266866,
-										["x"] = 109394.01406564,
+										["y"] = -3186.4819559844,
+										["x"] = 109256.45012517,
 										["name"] = "1 Plt 3rd Sq 1-14-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4300,8 +4300,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 322,
-										["y"] = -5738.5624674523,
-										["x"] = 109384.86035937,
+										["y"] = -3168.7129967501,
+										["x"] = 109247.2964189,
 										["name"] = "1 Plt 3rd Sq 1-14-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4312,15 +4312,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 323,
-										["y"] = -5753.6391601359,
-										["x"] = 109375.70665309,
+										["y"] = -3183.7896894337,
+										["x"] = 109238.14271262,
 										["name"] = "1 Plt 3rd Sq 1-14-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -5732.6394810409,
-								["x"] = 109416.62910466,
+								["y"] = -3162.7900103387,
+								["x"] = 109279.06516419,
 								["name"] = "3 Plt 1 Sq ",
 								["start_time"] = 0,
 							}, -- end of [30]
@@ -4338,13 +4338,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 45.118757107878,
+											["alt"] = 11,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5418.942773188,
-											["x"] = 109543.22438217,
+											["y"] = -3586.3676544146,
+											["x"] = 109577.15876782,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4370,8 +4370,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 324,
-										["y"] = -5418.942773188,
-										["x"] = 109543.22438217,
+										["y"] = -3586.3676544146,
+										["x"] = 109577.15876782,
 										["name"] = "1 Plt 3rd Sq 1-15-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4382,8 +4382,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 325,
-										["y"] = -5427.3364541981,
-										["x"] = 109542.08872592,
+										["y"] = -3600.2248518611,
+										["x"] = 109575.45917076,
 										["name"] = "1 Plt 3rd Sq 1-15-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4394,8 +4394,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 326,
-										["y"] = -5418.1827479259,
-										["x"] = 109557.70387192,
+										["y"] = -3585.6076291525,
+										["x"] = 109591.63825757,
 										["name"] = "1 Plt 3rd Sq 1-15-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4406,8 +4406,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 327,
-										["y"] = -5404.1829618626,
-										["x"] = 109536.70419282,
+										["y"] = -3571.6078430892,
+										["x"] = 109570.63857847,
 										["name"] = "1 Plt 3rd Sq 1-15-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4418,8 +4418,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 328,
-										["y"] = -5427.3364541981,
-										["x"] = 109482.85886181,
+										["y"] = -3594.7613354247,
+										["x"] = 109516.79324746,
 										["name"] = "1 Plt 3rd Sq 1-15-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4430,15 +4430,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 329,
-										["y"] = -5419.2596545462,
-										["x"] = 109510.85843394,
+										["y"] = -3586.6845357728,
+										["x"] = 109544.79281959,
 										["name"] = "1 Plt 3rd Sq 1-15-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -5418.942773188,
-								["x"] = 109543.22438217,
+								["y"] = -3586.3676544146,
+								["x"] = 109577.15876782,
 								["name"] = "3 Plt 3rd Sq 1-15",
 								["start_time"] = 0,
 							}, -- end of [31]
@@ -4456,13 +4456,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 45.53052357189,
+											["alt"] = 4,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5401.4906953119,
-											["x"] = 109486.62803498,
+											["y"] = -3264.5314016036,
+											["x"] = 108989.11601979,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4488,8 +4488,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier RPG",
 										["unitId"] = 330,
-										["y"] = -5401.4906953119,
-										["x"] = 109486.62803498,
+										["y"] = -3264.5314016036,
+										["x"] = 108989.11601979,
 										["name"] = "1 Plt 3rd Sq 1-16-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4500,8 +4500,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 331,
-										["y"] = -5386.7958689622,
-										["x"] = 109502.47340928,
+										["y"] = -3249.8365752539,
+										["x"] = 109004.96139409,
 										["name"] = "1 Plt 3rd Sq 1-16-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4512,8 +4512,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 332,
-										["y"] = -5414.2569877788,
-										["x"] = 109493.85815632,
+										["y"] = -3287.9338393907,
+										["x"] = 109005.9875447,
 										["name"] = "1 Plt 3rd Sq 1-16-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4524,10 +4524,10 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 333,
-										["y"] = -5413.7185344687,
-										["x"] = 109475.55074377,
+										["y"] = -3298.2744514361,
+										["x"] = 109005.9875447,
 										["name"] = "1 Plt 3rd Sq 1-16-4",
-										["heading"] = 0,
+										["heading"] = 5.6374134839417,
 										["playerCanDrive"] = false,
 									}, -- end of [4]
 									[5] = 
@@ -4536,8 +4536,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 334,
-										["y"] = -5409.4109079876,
-										["x"] = 109457.78178454,
+										["y"] = -3274.872013649,
+										["x"] = 109006.53178744,
 										["name"] = "1 Plt 3rd Sq 1-16-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4548,15 +4548,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 335,
-										["y"] = -5407.2570947471,
-										["x"] = 109444.32045179,
+										["y"] = -3264.5314016036,
+										["x"] = 109007.07603018,
 										["name"] = "1 Plt 3rd Sq 1-16-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -5401.4906953119,
-								["x"] = 109486.62803498,
+								["y"] = -3264.5314016036,
+								["x"] = 108989.11601979,
 								["name"] = "3 Plt 3rd Sq RPG",
 								["start_time"] = 0,
 							}, -- end of [32]
@@ -4574,13 +4574,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 45.232479069134,
+											["alt"] = 2,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5820.945823902,
-											["x"] = 109446.78249003,
+											["y"] = -3011.4581394391,
+											["x"] = 108799.65826147,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4606,10 +4606,10 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 336,
-										["y"] = -5820.945823902,
-										["x"] = 109446.78249003,
+										["y"] = -3011.4581394391,
+										["x"] = 108799.65826147,
 										["name"] = "1 Plt MG 2nd Team-5-1",
-										["heading"] = 0,
+										["heading"] = 1.4660765716752,
 										["playerCanDrive"] = false,
 									}, -- end of [1]
 									[2] = 
@@ -4618,10 +4618,10 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 337,
-										["y"] = -5831.7148901046,
-										["x"] = 109438.16723707,
+										["y"] = -3021.463491012,
+										["x"] = 108822.21272676,
 										["name"] = "1 Plt MG 2nd Team-5-2",
-										["heading"] = 0,
+										["heading"] = 0.31415926535898,
 										["playerCanDrive"] = false,
 									}, -- end of [2]
 									[3] = 
@@ -4630,15 +4630,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M249",
 										["unitId"] = 338,
-										["y"] = -5818.7920106615,
-										["x"] = 109429.55198411,
+										["y"] = -3011.4309960678,
+										["x"] = 108822.29595519,
 										["name"] = "1 Plt MG 2nd Team-5-3",
-										["heading"] = 0,
+										["heading"] = 0.83775804095728,
 										["playerCanDrive"] = false,
 									}, -- end of [3]
 								}, -- end of ["units"]
-								["y"] = -5820.945823902,
-								["x"] = 109446.78249003,
+								["y"] = -3011.4581394391,
+								["x"] = 108799.65826147,
 								["name"] = "3 Plt MG 2nd Team-5",
 								["start_time"] = 0,
 							}, -- end of [33]
@@ -4656,13 +4656,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 45.063042444924,
+											["alt"] = 11,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5658.3329242432,
-											["x"] = 109504.93544752,
+											["y"] = -3359.9726039606,
+											["x"] = 109515.77187599,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4688,8 +4688,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier RPG",
 										["unitId"] = 339,
-										["y"] = -5658.3329242432,
-										["x"] = 109504.93544752,
+										["y"] = -3359.9726039606,
+										["x"] = 109515.77187599,
 										["name"] = "1 Plt 3rd Sq 1-17-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4700,8 +4700,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 340,
-										["y"] = -5675.0249768572,
-										["x"] = 109495.24328794,
+										["y"] = -3398.738644874,
+										["x"] = 109500.18123863,
 										["name"] = "1 Plt 3rd Sq 1-17-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4712,8 +4712,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 341,
-										["y"] = -5673.4096169268,
-										["x"] = 109478.55123533,
+										["y"] = -3375.0492966442,
+										["x"] = 109489.3876638,
 										["name"] = "1 Plt 3rd Sq 1-17-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4724,8 +4724,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 342,
-										["y"] = -5655.6406576925,
-										["x"] = 109479.62814195,
+										["y"] = -3357.2803374099,
+										["x"] = 109490.46457042,
 										["name"] = "1 Plt 3rd Sq 1-17-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4736,8 +4736,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 343,
-										["y"] = -5680.4095099585,
-										["x"] = 109454.85928968,
+										["y"] = -3382.0491896759,
+										["x"] = 109465.69571815,
 										["name"] = "1 Plt 3rd Sq 1-17-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4748,15 +4748,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 344,
-										["y"] = -5648.6407646609,
-										["x"] = 109492.01256808,
+										["y"] = -3350.2804443783,
+										["x"] = 109502.84899655,
 										["name"] = "1 Plt 3rd Sq 1-17-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -5658.3329242432,
-								["x"] = 109504.93544752,
+								["y"] = -3359.9726039606,
+								["x"] = 109515.77187599,
 								["name"] = "3 Plt 1 RPG",
 								["start_time"] = 0,
 							}, -- end of [34]
@@ -4774,13 +4774,13 @@ mission =
 									{
 										[1] = 
 										{
-											["alt"] = 45.099569161444,
+											["alt"] = 11,
 											["type"] = "Turning Point",
 											["ETA"] = 0,
 											["alt_type"] = "BARO",
 											["formation_template"] = "",
-											["y"] = -5522.6426900908,
-											["x"] = 109525.93512662,
+											["y"] = -3805.6128349427,
+											["x"] = 109469.86931329,
 											["ETA_locked"] = true,
 											["speed"] = 0,
 											["action"] = "Off Road",
@@ -4806,8 +4806,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier RPG",
 										["unitId"] = 345,
-										["y"] = -5522.6426900908,
-										["x"] = 109525.93512662,
+										["y"] = -3805.6128349427,
+										["x"] = 109469.86931329,
 										["name"] = "1 Plt 3rd Sq 1-18-1",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4818,8 +4818,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 346,
-										["y"] = -5532.8733029833,
-										["x"] = 109521.08904683,
+										["y"] = -3813.9025367881,
+										["x"] = 109461.14510711,
 										["name"] = "1 Plt 3rd Sq 1-18-2",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4830,8 +4830,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 347,
-										["y"] = -5520.4888768503,
-										["x"] = 109508.16616739,
+										["y"] = -3803.4590217022,
+										["x"] = 109452.10035406,
 										["name"] = "1 Plt 3rd Sq 1-18-3",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4842,8 +4842,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 348,
-										["y"] = -5505.9506374768,
-										["x"] = 109514.62760711,
+										["y"] = -3788.9207823287,
+										["x"] = 109458.56179378,
 										["name"] = "1 Plt 3rd Sq 1-18-4",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4854,8 +4854,8 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 349,
-										["y"] = -5528.5656765022,
-										["x"] = 109504.93544752,
+										["y"] = -3814.0378692059,
+										["x"] = 109450.29642904,
 										["name"] = "1 Plt 3rd Sq 1-18-5",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
@@ -4866,15 +4866,15 @@ mission =
 										["coldAtStart"] = false,
 										["type"] = "Soldier M4",
 										["unitId"] = 350,
-										["y"] = -5509.7198106477,
-										["x"] = 109527.01203324,
+										["y"] = -3792.6899554996,
+										["x"] = 109470.94621991,
 										["name"] = "1 Plt 3rd Sq 1-18-6",
 										["heading"] = 0,
 										["playerCanDrive"] = false,
 									}, -- end of [6]
 								}, -- end of ["units"]
-								["y"] = -5522.6426900908,
-								["x"] = 109525.93512662,
+								["y"] = -3805.6128349427,
+								["x"] = 109469.86931329,
 								["name"] = "3 Plt 2 Sq RPG",
 								["start_time"] = 0,
 							}, -- end of [35]
@@ -42957,16 +42957,16 @@ mission =
 												["y"] = 75174.800922466,
 												["x"] = 139634.46169592,
 											}, -- end of [738]
-											[185] = 
-											{
-												["y"] = 86238.00889241,
-												["x"] = 152572.62295976,
-											}, -- end of [185]
 											[739] = 
 											{
 												["y"] = 74753.741266801,
 												["x"] = 139721.61116634,
 											}, -- end of [739]
+											[185] = 
+											{
+												["y"] = 86238.00889241,
+												["x"] = 152572.62295976,
+											}, -- end of [185]
 											[370] = 
 											{
 												["y"] = 86346.579388782,
@@ -43082,11 +43082,11 @@ mission =
 												["y"] = 86311.657044746,
 												["x"] = 155030.43184947,
 											}, -- end of [94]
-											[188] = 
+											[751] = 
 											{
-												["y"] = 86223.055112114,
-												["x"] = 152572.53570183,
-											}, -- end of [188]
+												["y"] = 73952.415845105,
+												["x"] = 139613.83989122,
+											}, -- end of [751]
 											[376] = 
 											{
 												["y"] = 86232.978915276,
@@ -43177,11 +43177,11 @@ mission =
 												["y"] = 73671.41066366,
 												["x"] = 139650.94150934,
 											}, -- end of [760]
-											[383] = 
+											[24] = 
 											{
-												["y"] = 86150.044850634,
-												["x"] = 146418.38641023,
-											}, -- end of [383]
+												["y"] = 87992.857375167,
+												["x"] = 162126.83880085,
+											}, -- end of [24]
 											[761] = 
 											{
 												["y"] = 73661.428492655,
@@ -43197,26 +43197,26 @@ mission =
 												["y"] = 73651.434676323,
 												["x"] = 139651.29426608,
 											}, -- end of [762]
-											[766] = 
+											[48] = 
 											{
-												["y"] = 73612.101122862,
-												["x"] = 139644.41316711,
-											}, -- end of [766]
-											[763] = 
+												["y"] = 87047.313408695,
+												["x"] = 160939.46991969,
+											}, -- end of [48]
+											[191] = 
 											{
-												["y"] = 73641.476953391,
-												["x"] = 139650.35050193,
-											}, -- end of [763]
+												["y"] = 86198.930372112,
+												["x"] = 152578.94606611,
+											}, -- end of [191]
 											[382] = 
 											{
 												["y"] = 86172.034702407,
 												["x"] = 146445.61150184,
 											}, -- end of [382]
-											[764] = 
+											[3] = 
 											{
-												["y"] = 73631.586552253,
-												["x"] = 139648.88019146,
-											}, -- end of [764]
+												["y"] = 91273.148258731,
+												["x"] = 164878.81333069,
+											}, -- end of [3]
 											[6] = 
 											{
 												["y"] = 91240.398047605,
@@ -43227,16 +43227,16 @@ mission =
 												["y"] = 91161.991184254,
 												["x"] = 164709.34415216,
 											}, -- end of [12]
-											[24] = 
+											[383] = 
 											{
-												["y"] = 87992.857375167,
-												["x"] = 162126.83880085,
-											}, -- end of [24]
-											[48] = 
+												["y"] = 86150.044850634,
+												["x"] = 146418.38641023,
+											}, -- end of [383]
+											[766] = 
 											{
-												["y"] = 87047.313408695,
-												["x"] = 160939.46991969,
-											}, -- end of [48]
+												["y"] = 73612.101122862,
+												["x"] = 139644.41316711,
+											}, -- end of [766]
 											[96] = 
 											{
 												["y"] = 86314.416207169,
@@ -43377,11 +43377,11 @@ mission =
 												["y"] = 73453.04318122,
 												["x"] = 139496.40667973,
 											}, -- end of [780]
-											[783] = 
+											[196] = 
 											{
-												["y"] = 73108.960739384,
-												["x"] = 138882.42777538,
-											}, -- end of [783]
+												["y"] = 85977.324191905,
+												["x"] = 152639.29474898,
+											}, -- end of [196]
 											[781] = 
 											{
 												["y"] = 73211.169805703,
@@ -43392,21 +43392,21 @@ mission =
 												["y"] = 86063.403302039,
 												["x"] = 146344.8472621,
 											}, -- end of [391]
-											[782] = 
+											[49] = 
 											{
-												["y"] = 73184.344698195,
-												["x"] = 138988.32695139,
-											}, -- end of [782]
+												["y"] = 87041.352670563,
+												["x"] = 160920.38098684,
+											}, -- end of [49]
 											[98] = 
 											{
 												["y"] = 86318.275395794,
 												["x"] = 155011.60820166,
 											}, -- end of [98]
-											[196] = 
+											[783] = 
 											{
-												["y"] = 85977.324191905,
-												["x"] = 152639.29474898,
-											}, -- end of [196]
+												["y"] = 73108.960739384,
+												["x"] = 138882.42777538,
+											}, -- end of [783]
 											[392] = 
 											{
 												["y"] = 86053.865787196,
@@ -43442,11 +43442,11 @@ mission =
 												["y"] = 83770.921017407,
 												["x"] = 141234.53790916,
 											}, -- end of [555]
-											[787] = 
+											[197] = 
 											{
-												["y"] = 73055.26005646,
-												["x"] = 138833.81916155,
-											}, -- end of [787]
+												["y"] = 85972.328785836,
+												["x"] = 152639.15292774,
+											}, -- end of [197]
 											[394] = 
 											{
 												["y"] = 86029.40846424,
@@ -43517,16 +43517,16 @@ mission =
 												["y"] = 72936.483567535,
 												["x"] = 138751.1017665,
 											}, -- end of [794]
-											[199] = 
-											{
-												["y"] = 85962.550346153,
-												["x"] = 152637.19546571,
-											}, -- end of [199]
 											[795] = 
 											{
 												["y"] = 72922.941828159,
 												["x"] = 138744.65651367,
 											}, -- end of [795]
+											[199] = 
+											{
+												["y"] = 85962.550346153,
+												["x"] = 152637.19546571,
+											}, -- end of [199]
 											[398] = 
 											{
 												["y"] = 85764.890576393,
@@ -43547,11 +43547,11 @@ mission =
 												["y"] = 72871.263831897,
 												["x"] = 138725.90678231,
 											}, -- end of [797]
-											[399] = 
+											[25] = 
 											{
-												["y"] = 85615.245091038,
-												["x"] = 146335.50846891,
-											}, -- end of [399]
+												["y"] = 87970.424232989,
+												["x"] = 162087.83461099,
+											}, -- end of [25]
 											[50] = 
 											{
 												["y"] = 87035.152227147,
@@ -43562,11 +43562,11 @@ mission =
 												["y"] = 86328.074156523,
 												["x"] = 154994.1850413,
 											}, -- end of [100]
-											[200] = 
+											[799] = 
 											{
-												["y"] = 85957.96039161,
-												["x"] = 152635.22441857,
-											}, -- end of [200]
+												["y"] = 72531.523348872,
+												["x"] = 138623.3725601,
+											}, -- end of [799]
 											[400] = 
 											{
 												["y"] = 85605.269635065,
@@ -43597,16 +43597,16 @@ mission =
 												["y"] = 72465.806767292,
 												["x"] = 138587.37069001,
 											}, -- end of [802]
-											[201] = 
-											{
-												["y"] = 85953.701798507,
-												["x"] = 152632.61238362,
-											}, -- end of [201]
 											[803] = 
 											{
 												["y"] = 72449.285413016,
 												["x"] = 138576.10449754,
 											}, -- end of [803]
+											[201] = 
+											{
+												["y"] = 85953.701798507,
+												["x"] = 152632.61238362,
+											}, -- end of [201]
 											[402] = 
 											{
 												["y"] = 85590.541132368,
@@ -43642,11 +43642,11 @@ mission =
 												["y"] = 86336.425209915,
 												["x"] = 154981.72571655,
 											}, -- end of [101]
-											[807] = 
+											[202] = 
 											{
-												["y"] = 72010.082381529,
-												["x"] = 138160.59915255,
-											}, -- end of [807]
+												["y"] = 85949.817071431,
+												["x"] = 152629.46960855,
+											}, -- end of [202]
 											[404] = 
 											{
 												["y"] = 85571.548297223,
@@ -43657,11 +43657,11 @@ mission =
 												["y"] = 71981.28752981,
 												["x"] = 138140.71029955,
 											}, -- end of [808]
-											[203] = 
+											[811] = 
 											{
-												["y"] = 85946.288326907,
-												["x"] = 152625.92851308,
-											}, -- end of [203]
+												["y"] = 71898.199985611,
+												["x"] = 138094.83861697,
+											}, -- end of [811]
 											[809] = 
 											{
 												["y"] = 71951.482756034,
@@ -43682,11 +43682,11 @@ mission =
 												["y"] = 87030.241653304,
 												["x"] = 160871.65505137,
 											}, -- end of [51]
-											[811] = 
+											[203] = 
 											{
-												["y"] = 71898.199985611,
-												["x"] = 138094.83861697,
-											}, -- end of [811]
+												["y"] = 85946.288326907,
+												["x"] = 152625.92851308,
+											}, -- end of [203]
 											[406] = 
 											{
 												["y"] = 85526.133335757,
@@ -43762,11 +43762,11 @@ mission =
 												["y"] = 73025.800510206,
 												["x"] = 138815.08490971,
 											}, -- end of [791]
-											[205] = 
+											[819] = 
 											{
-												["y"] = 85940.262842486,
-												["x"] = 152617.95992865,
-											}, -- end of [205]
+												["y"] = 71688.53756152,
+												["x"] = 138056.98937415,
+											}, -- end of [819]
 											[410] = 
 											{
 												["y"] = 84352.341951585,
@@ -43817,11 +43817,11 @@ mission =
 												["y"] = 71131.056473502,
 												["x"] = 138034.10986402,
 											}, -- end of [824]
-											[13] = 
+											[829] = 
 											{
-												["y"] = 91139.138216741,
-												["x"] = 164689.91413652,
-											}, -- end of [13]
+												["y"] = 71024.33362328,
+												["x"] = 137992.20914687,
+											}, -- end of [829]
 											[825] = 
 											{
 												["y"] = 71106.959516092,
@@ -43837,16 +43837,16 @@ mission =
 												["y"] = 71087.96190613,
 												["x"] = 138021.21405161,
 											}, -- end of [826]
-											[415] = 
+											[26] = 
 											{
-												["y"] = 84150.606633999,
-												["x"] = 145423.83591419,
-											}, -- end of [415]
-											[207] = 
+												["y"] = 87940.570291487,
+												["x"] = 162030.10419851,
+											}, -- end of [26]
+											[827] = 
 											{
-												["y"] = 85927.695855587,
-												["x"] = 152596.36179236,
-											}, -- end of [207]
+												["y"] = 71069.311096829,
+												["x"] = 138014.00346886,
+											}, -- end of [827]
 											[414] = 
 											{
 												["y"] = 84175.842370153,
@@ -43857,36 +43857,36 @@ mission =
 												["y"] = 71051.052543509,
 												["x"] = 138005.84220371,
 											}, -- end of [828]
-											[830] = 
-											{
-												["y"] = 70998.369105186,
-												["x"] = 137977.18721695,
-											}, -- end of [830]
-											[829] = 
-											{
-												["y"] = 71024.33362328,
-												["x"] = 137992.20914687,
-											}, -- end of [829]
-											[26] = 
-											{
-												["y"] = 87940.570291487,
-												["x"] = 162030.10419851,
-											}, -- end of [26]
 											[52] = 
 											{
 												["y"] = 87025.911980511,
 												["x"] = 160841.97299293,
 											}, -- end of [52]
+											[13] = 
+											{
+												["y"] = 91139.138216741,
+												["x"] = 164689.91413652,
+											}, -- end of [13]
+											[415] = 
+											{
+												["y"] = 84150.606633999,
+												["x"] = 145423.83591419,
+											}, -- end of [415]
+											[830] = 
+											{
+												["y"] = 70998.369105186,
+												["x"] = 137977.18721695,
+											}, -- end of [830]
 											[104] = 
 											{
 												["y"] = 86394.521602296,
 												["x"] = 154913.08363853,
 											}, -- end of [104]
-											[831] = 
+											[208] = 
 											{
-												["y"] = 70969.018809355,
-												["x"] = 137958.12709614,
-											}, -- end of [831]
+												["y"] = 85923.588733599,
+												["x"] = 152587.24902189,
+											}, -- end of [208]
 											[416] = 
 											{
 												["y"] = 84127.911484914,
@@ -43962,11 +43962,11 @@ mission =
 												["y"] = 86411.719468993,
 												["x"] = 154894.94091843,
 											}, -- end of [105]
-											[210] = 
+											[839] = 
 											{
-												["y"] = 85917.918643295,
-												["x"] = 152568.09387065,
-											}, -- end of [210]
+												["y"] = 70799.252358166,
+												["x"] = 137777.25058524,
+											}, -- end of [839]
 											[420] = 
 											{
 												["y"] = 84061.037722171,
@@ -44017,11 +44017,11 @@ mission =
 												["y"] = 70456.214337847,
 												["x"] = 136924.78034699,
 											}, -- end of [844]
-											[53] = 
+											[846] = 
 											{
-												["y"] = 87023.141361609,
-												["x"] = 160812.10428925,
-											}, -- end of [53]
+												["y"] = 70417.161598723,
+												["x"] = 136811.37371546,
+											}, -- end of [846]
 											[845] = 
 											{
 												["y"] = 70426.540043904,
@@ -44032,21 +44032,21 @@ mission =
 												["y"] = 84019.226285038,
 												["x"] = 145344.1386677,
 											}, -- end of [423]
-											[846] = 
+											[53] = 
 											{
-												["y"] = 70417.161598723,
-												["x"] = 136811.37371546,
-											}, -- end of [846]
+												["y"] = 87023.141361609,
+												["x"] = 160812.10428925,
+											}, -- end of [53]
 											[106] = 
 											{
 												["y"] = 86417.926458213,
 												["x"] = 154887.10604192,
 											}, -- end of [106]
-											[212] = 
+											[847] = 
 											{
-												["y"] = 85916.473747055,
-												["x"] = 152558.20357671,
-											}, -- end of [212]
+												["y"] = 70406.633531707,
+												["x"] = 136788.70166347,
+											}, -- end of [847]
 											[424] = 
 											{
 												["y"] = 83995.078124504,
@@ -44077,16 +44077,16 @@ mission =
 												["y"] = 70365.507568812,
 												["x"] = 136720.17067801,
 											}, -- end of [850]
-											[213] = 
-											{
-												["y"] = 85916.181113724,
-												["x"] = 152553.21337392,
-											}, -- end of [213]
 											[851] = 
 											{
 												["y"] = 70347.705361255,
 												["x"] = 136696.02709839,
 											}, -- end of [851]
+											[213] = 
+											{
+												["y"] = 85916.181113724,
+												["x"] = 152553.21337392,
+											}, -- end of [213]
 											[426] = 
 											{
 												["y"] = 83950.791343041,
@@ -44122,11 +44122,11 @@ mission =
 												["y"] = 86420.733873063,
 												["x"] = 154882.96831158,
 											}, -- end of [107]
-											[214] = 
+											[855] = 
 											{
-												["y"] = 85916.177354235,
-												["x"] = 152548.21399109,
-											}, -- end of [214]
+												["y"] = 70272.197657196,
+												["x"] = 136616.30697182,
+											}, -- end of [855]
 											[428] = 
 											{
 												["y"] = 83836.71943034,
@@ -44237,16 +44237,16 @@ mission =
 												["y"] = 68763.464869968,
 												["x"] = 135312.20530548,
 											}, -- end of [866]
-											[217] = 
-											{
-												["y"] = 85919.647066628,
-												["x"] = 152523.49896625,
-											}, -- end of [217]
 											[867] = 
 											{
 												["y"] = 68738.804972297,
 												["x"] = 135287.366728,
 											}, -- end of [867]
+											[217] = 
+											{
+												["y"] = 85919.647066628,
+												["x"] = 152523.49896625,
+											}, -- end of [217]
 											[434] = 
 											{
 												["y"] = 83528.474564898,
@@ -44282,11 +44282,11 @@ mission =
 												["y"] = 86425.660294345,
 												["x"] = 154874.27270023,
 											}, -- end of [109]
-											[871] = 
+											[218] = 
 											{
-												["y"] = 68537.63817509,
-												["x"] = 135131.09616712,
-											}, -- end of [871]
+												["y"] = 85923.549789661,
+												["x"] = 152509.01832288,
+											}, -- end of [218]
 											[436] = 
 											{
 												["y"] = 83387.263705898,
@@ -44322,11 +44322,11 @@ mission =
 												["y"] = 68166.642294627,
 												["x"] = 134986.8053881,
 											}, -- end of [878]
-											[875] = 
+											[219] = 
 											{
-												["y"] = 68376.889443828,
-												["x"] = 135050.72271404,
-											}, -- end of [875]
+												["y"] = 85929.864579421,
+												["x"] = 152490.04344289,
+											}, -- end of [219]
 											[438] = 
 											{
 												["y"] = 83256.493843281,
@@ -44402,11 +44402,11 @@ mission =
 												["y"] = 82793.628876136,
 												["x"] = 140463.10362177,
 											}, -- end of [591]
-											[221] = 
+											[883] = 
 											{
-												["y"] = 85992.387842642,
-												["x"] = 152326.71613692,
-											}, -- end of [221]
+												["y"] = 63410.739815224,
+												["x"] = 134516.22792003,
+											}, -- end of [883]
 											[442] = 
 											{
 												["y"] = 83211.74640776,
@@ -44442,11 +44442,11 @@ mission =
 												["y"] = 86429.576133756,
 												["x"] = 154865.07742583,
 											}, -- end of [111]
-											[887] = 
+											[222] = 
 											{
-												["y"] = 61896.832305621,
-												["x"] = 134272.42830367,
-											}, -- end of [887]
+												["y"] = 85994.169992101,
+												["x"] = 152316.87975559,
+											}, -- end of [222]
 											[444] = 
 											{
 												["y"] = 83195.181083721,
@@ -44457,11 +44457,11 @@ mission =
 												["y"] = 61893.202508359,
 												["x"] = 134268.96997835,
 											}, -- end of [888]
-											[447] = 
+											[28] = 
 											{
-												["y"] = 83176.008100049,
-												["x"] = 144763.17579162,
-											}, -- end of [447]
+												["y"] = 87711.957577354,
+												["x"] = 161524.7066876,
+											}, -- end of [28]
 											[889] = 
 											{
 												["y"] = 61889.244633592,
@@ -44477,11 +44477,11 @@ mission =
 												["y"] = 61884.723515352,
 												["x"] = 134263.90569701,
 											}, -- end of [890]
-											[224] = 
+											[895] = 
 											{
-												["y"] = 85994.948574141,
-												["x"] = 152306.9152704,
-											}, -- end of [224]
+												["y"] = 60791.848250766,
+												["x"] = 134147.48988394,
+											}, -- end of [895]
 											[223] = 
 											{
 												["y"] = 85994.700007041,
@@ -44502,31 +44502,31 @@ mission =
 												["y"] = 91230.177418307,
 												["x"] = 164788.73313072,
 											}, -- end of [7]
-											[14] = 
+											[893] = 
 											{
-												["y"] = 91111.354563905,
-												["x"] = 164668.63440686,
-											}, -- end of [14]
-											[28] = 
+												["y"] = 60879.583155907,
+												["x"] = 134167.42613013,
+											}, -- end of [893]
+											[447] = 
 											{
-												["y"] = 87711.957577354,
-												["x"] = 161524.7066876,
-											}, -- end of [28]
-											[56] = 
+												["y"] = 83176.008100049,
+												["x"] = 144763.17579162,
+											}, -- end of [447]
+											[894] = 
 											{
-												["y"] = 87024.286316421,
-												["x"] = 160702.21202375,
-											}, -- end of [56]
+												["y"] = 60859.912540318,
+												["x"] = 134163.82491472,
+											}, -- end of [894]
 											[112] = 
 											{
 												["y"] = 86432.563984896,
 												["x"] = 154855.5370529,
 											}, -- end of [112]
-											[895] = 
+											[224] = 
 											{
-												["y"] = 60791.848250766,
-												["x"] = 134147.48988394,
-											}, -- end of [895]
+												["y"] = 85994.948574141,
+												["x"] = 152306.9152704,
+											}, -- end of [224]
 											[448] = 
 											{
 												["y"] = 83172.825624834,
@@ -44637,16 +44637,16 @@ mission =
 												["y"] = 60506.703341819,
 												["x"] = 134048.01844776,
 											}, -- end of [906]
-											[910] = 
+											[57] = 
 											{
-												["y"] = 60270.102644315,
-												["x"] = 134010.03586225,
-											}, -- end of [910]
-											[907] = 
+												["y"] = 87029.679793026,
+												["x"] = 160652.50907631,
+											}, -- end of [57]
+											[227] = 
 											{
-												["y"] = 60338.105719614,
-												["x"] = 134026.28406572,
-											}, -- end of [907]
+												["y"] = 85990.701637539,
+												["x"] = 152267.18141428,
+											}, -- end of [227]
 											[454] = 
 											{
 												["y"] = 83166.106862574,
@@ -44672,11 +44672,11 @@ mission =
 												["y"] = 83166.822299363,
 												["x"] = 144679.32638574,
 											}, -- end of [455]
-											[57] = 
+											[910] = 
 											{
-												["y"] = 87029.679793026,
-												["x"] = 160652.50907631,
-											}, -- end of [57]
+												["y"] = 60270.102644315,
+												["x"] = 134010.03586225,
+											}, -- end of [910]
 											[114] = 
 											{
 												["y"] = 86437.370161055,
@@ -44717,16 +44717,16 @@ mission =
 												["y"] = 57303.462215936,
 												["x"] = 132813.71885172,
 											}, -- end of [914]
-											[229] = 
-											{
-												["y"] = 85983.437500506,
-												["x"] = 152212.67534861,
-											}, -- end of [229]
 											[915] = 
 											{
 												["y"] = 56992.250259124,
 												["x"] = 132720.13975089,
 											}, -- end of [915]
+											[229] = 
+											{
+												["y"] = 85983.437500506,
+												["x"] = 152212.67534861,
+											}, -- end of [229]
 											[458] = 
 											{
 												["y"] = 83184.557567734,
@@ -44737,11 +44737,11 @@ mission =
 												["y"] = 56934.020685578,
 												["x"] = 132705.70134467,
 											}, -- end of [916]
-											[230] = 
+											[919] = 
 											{
-												["y"] = 85982.502595804,
-												["x"] = 152207.76350047,
-											}, -- end of [230]
+												["y"] = 55278.131762528,
+												["x"] = 132456.0671793,
+											}, -- end of [919]
 											[917] = 
 											{
 												["y"] = 56663.870295055,
@@ -44762,11 +44762,11 @@ mission =
 												["y"] = 86440.745814641,
 												["x"] = 154801.21207892,
 											}, -- end of [115]
-											[919] = 
+											[230] = 
 											{
-												["y"] = 55278.131762528,
-												["x"] = 132456.0671793,
-											}, -- end of [919]
+												["y"] = 85982.502595804,
+												["x"] = 152207.76350047,
+											}, -- end of [230]
 											[460] = 
 											{
 												["y"] = 83201.228352555,
@@ -44817,11 +44817,11 @@ mission =
 												["y"] = 55213.276791725,
 												["x"] = 132457.63712962,
 											}, -- end of [924]
-											[926] = 
+											[58] = 
 											{
-												["y"] = 53362.995046684,
-												["x"] = 132097.98348774,
-											}, -- end of [926]
+												["y"] = 87076.055823352,
+												["x"] = 160356.21075302,
+											}, -- end of [58]
 											[925] = 
 											{
 												["y"] = 55203.451605036,
@@ -44832,21 +44832,21 @@ mission =
 												["y"] = 87695.469626027,
 												["x"] = 161499.64855937,
 											}, -- end of [29]
-											[58] = 
+											[926] = 
 											{
-												["y"] = 87076.055823352,
-												["x"] = 160356.21075302,
-											}, -- end of [58]
+												["y"] = 53362.995046684,
+												["x"] = 132097.98348774,
+											}, -- end of [926]
 											[116] = 
 											{
 												["y"] = 86463.629237717,
 												["x"] = 154522.20187417,
 											}, -- end of [116]
-											[232] = 
+											[927] = 
 											{
-												["y"] = 85979.580444606,
-												["x"] = 152198.2160263,
-											}, -- end of [232]
+												["y"] = 53333.224860279,
+												["x"] = 132094.308901,
+											}, -- end of [927]
 											[464] = 
 											{
 												["y"] = 83390.212262793,
@@ -44922,11 +44922,11 @@ mission =
 												["y"] = 86468.719092584,
 												["x"] = 154492.64057086,
 											}, -- end of [117]
-											[935] = 
+											[234] = 
 											{
-												["y"] = 47902.958867864,
-												["x"] = 132126.22453814,
-											}, -- end of [935]
+												["y"] = 85974.795720746,
+												["x"] = 152189.45520984,
+											}, -- end of [234]
 											[468] = 
 											{
 												["y"] = 84124.421142538,
@@ -44937,11 +44937,11 @@ mission =
 												["y"] = 47893.498792211,
 												["x"] = 132122.98902107,
 											}, -- end of [936]
-											[235] = 
+											[939] = 
 											{
-												["y"] = 85960.756172762,
-												["x"] = 152168.79488009,
-											}, -- end of [235]
+												["y"] = 47866.742748509,
+												["x"] = 132109.58883896,
+											}, -- end of [939]
 											[937] = 
 											{
 												["y"] = 47884.236666425,
@@ -44957,16 +44957,16 @@ mission =
 												["y"] = 47875.278191922,
 												["x"] = 132114.78645138,
 											}, -- end of [938]
-											[59] = 
+											[942] = 
 											{
-												["y"] = 87077.634452597,
-												["x"] = 160326.25578598,
-											}, -- end of [59]
-											[939] = 
+												["y"] = 47840.644549625,
+												["x"] = 132096.0543838,
+											}, -- end of [942]
+											[235] = 
 											{
-												["y"] = 47866.742748509,
-												["x"] = 132109.58883896,
-											}, -- end of [939]
+												["y"] = 85960.756172762,
+												["x"] = 152168.79488009,
+											}, -- end of [235]
 											[470] = 
 											{
 												["y"] = 84220.117023769,
@@ -44992,11 +44992,11 @@ mission =
 												["y"] = 84292.447085114,
 												["x"] = 143369.31529338,
 											}, -- end of [471]
-											[942] = 
+											[59] = 
 											{
-												["y"] = 47840.644549625,
-												["x"] = 132096.0543838,
-											}, -- end of [942]
+												["y"] = 87077.634452597,
+												["x"] = 160326.25578598,
+											}, -- end of [59]
 											[118] = 
 											{
 												["y"] = 86473.187855814,
@@ -45342,11 +45342,11 @@ mission =
 												["y"] = 82190.834053724,
 												["x"] = 139736.67324565,
 											}, -- end of [607]
-											[234] = 
+											[935] = 
 											{
-												["y"] = 85974.795720746,
-												["x"] = 152189.45520984,
-											}, -- end of [234]
+												["y"] = 47902.958867864,
+												["x"] = 132126.22453814,
+											}, -- end of [935]
 											[489] = 
 											{
 												["y"] = 85322.118058476,
@@ -45357,11 +45357,11 @@ mission =
 												["y"] = 82313.426310621,
 												["x"] = 139779.35262376,
 											}, -- end of [603]
-											[927] = 
+											[232] = 
 											{
-												["y"] = 53333.224860279,
-												["x"] = 132094.308901,
-											}, -- end of [927]
+												["y"] = 85979.580444606,
+												["x"] = 152198.2160263,
+											}, -- end of [232]
 											[245] = 
 											{
 												["y"] = 85952.043788797,
@@ -45392,11 +45392,11 @@ mission =
 												["y"] = 85191.412597785,
 												["x"] = 141776.67828091,
 											}, -- end of [491]
-											[227] = 
+											[907] = 
 											{
-												["y"] = 85990.701637539,
-												["x"] = 152267.18141428,
-											}, -- end of [227]
+												["y"] = 60338.105719614,
+												["x"] = 134026.28406572,
+											}, -- end of [907]
 											[123] = 
 											{
 												["y"] = 86573.639138568,
@@ -45417,31 +45417,31 @@ mission =
 												["y"] = 74466.06083871,
 												["x"] = 139754.70987942,
 											}, -- end of [743]
-											[894] = 
+											[56] = 
 											{
-												["y"] = 60859.912540318,
-												["x"] = 134163.82491472,
-											}, -- end of [894]
-											[893] = 
+												["y"] = 87024.286316421,
+												["x"] = 160702.21202375,
+											}, -- end of [56]
+											[14] = 
 											{
-												["y"] = 60879.583155907,
-												["x"] = 134167.42613013,
-											}, -- end of [893]
+												["y"] = 91111.354563905,
+												["x"] = 164668.63440686,
+											}, -- end of [14]
 											[493] = 
 											{
 												["y"] = 85156.74138633,
 												["x"] = 141772.02589689,
 											}, -- end of [493]
-											[222] = 
+											[887] = 
 											{
-												["y"] = 85994.169992101,
-												["x"] = 152316.87975559,
-											}, -- end of [222]
-											[883] = 
+												["y"] = 61896.832305621,
+												["x"] = 134272.42830367,
+											}, -- end of [887]
+											[221] = 
 											{
-												["y"] = 63410.739815224,
-												["x"] = 134516.22792003,
-											}, -- end of [883]
+												["y"] = 85992.387842642,
+												["x"] = 152326.71613692,
+											}, -- end of [221]
 											[247] = 
 											{
 												["y"] = 85959.09059417,
@@ -45452,16 +45452,16 @@ mission =
 												["y"] = 85146.752637746,
 												["x"] = 141771.61775058,
 											}, -- end of [494]
-											[219] = 
+											[875] = 
 											{
-												["y"] = 85929.864579421,
-												["x"] = 152490.04344289,
-											}, -- end of [219]
-											[218] = 
+												["y"] = 68376.889443828,
+												["x"] = 135050.72271404,
+											}, -- end of [875]
+											[871] = 
 											{
-												["y"] = 85923.549789661,
-												["x"] = 152509.01832288,
-											}, -- end of [218]
+												["y"] = 68537.63817509,
+												["x"] = 135131.09616712,
+											}, -- end of [871]
 											[590] = 
 											{
 												["y"] = 82815.437558727,
@@ -45492,21 +45492,21 @@ mission =
 												["y"] = 85106.821387735,
 												["x"] = 141773.55801534,
 											}, -- end of [496]
-											[855] = 
+											[214] = 
 											{
-												["y"] = 70272.197657196,
-												["x"] = 136616.30697182,
-											}, -- end of [855]
+												["y"] = 85916.177354235,
+												["x"] = 152548.21399109,
+											}, -- end of [214]
 											[767] = 
 											{
 												["y"] = 73597.817236247,
 												["x"] = 139639.84234243,
 											}, -- end of [767]
-											[847] = 
+											[212] = 
 											{
-												["y"] = 70406.633531707,
-												["x"] = 136788.70166347,
-											}, -- end of [847]
+												["y"] = 85916.473747055,
+												["x"] = 152558.20357671,
+											}, -- end of [212]
 											[497] = 
 											{
 												["y"] = 85022.469153468,
@@ -45517,11 +45517,11 @@ mission =
 												["y"] = 73477.411524698,
 												["x"] = 139540.06127879,
 											}, -- end of [779]
-											[839] = 
+											[210] = 
 											{
-												["y"] = 70799.252358166,
-												["x"] = 137777.25058524,
-											}, -- end of [839]
+												["y"] = 85917.918643295,
+												["x"] = 152568.09387065,
+											}, -- end of [210]
 											[249] = 
 											{
 												["y"] = 85965.434564736,
@@ -45532,16 +45532,16 @@ mission =
 												["y"] = 84923.858154101,
 												["x"] = 141800.53232292,
 											}, -- end of [498]
-											[208] = 
+											[831] = 
 											{
-												["y"] = 85923.588733599,
-												["x"] = 152587.24902189,
-											}, -- end of [208]
-											[827] = 
+												["y"] = 70969.018809355,
+												["x"] = 137958.12709614,
+											}, -- end of [831]
+											[207] = 
 											{
-												["y"] = 71069.311096829,
-												["x"] = 138014.00346886,
-											}, -- end of [827]
+												["y"] = 85927.695855587,
+												["x"] = 152596.36179236,
+											}, -- end of [207]
 											[574] = 
 											{
 												["y"] = 83404.087726575,
@@ -45552,11 +45552,11 @@ mission =
 												["y"] = 84596.262302025,
 												["x"] = 141870.31455934,
 											}, -- end of [499]
-											[819] = 
+											[205] = 
 											{
-												["y"] = 71688.53756152,
-												["x"] = 138056.98937415,
-											}, -- end of [819]
+												["y"] = 85940.262842486,
+												["x"] = 152617.95992865,
+											}, -- end of [205]
 											[125] = 
 											{
 												["y"] = 86582.331068683,
@@ -45577,11 +45577,11 @@ mission =
 												["y"] = 83564.245069145,
 												["x"] = 141080.4908823,
 											}, -- end of [567]
-											[202] = 
+											[807] = 
 											{
-												["y"] = 85949.817071431,
-												["x"] = 152629.46960855,
-											}, -- end of [202]
+												["y"] = 72010.082381529,
+												["x"] = 138160.59915255,
+											}, -- end of [807]
 											[571] = 
 											{
 												["y"] = 83439.735763354,
@@ -45592,16 +45592,16 @@ mission =
 												["y"] = 84561.401759474,
 												["x"] = 141873.22215718,
 											}, -- end of [501]
-											[799] = 
+											[200] = 
 											{
-												["y"] = 72531.523348872,
-												["x"] = 138623.3725601,
-											}, -- end of [799]
-											[25] = 
+												["y"] = 85957.96039161,
+												["x"] = 152635.22441857,
+											}, -- end of [200]
+											[399] = 
 											{
-												["y"] = 87970.424232989,
-												["x"] = 162087.83461099,
-											}, -- end of [25]
+												["y"] = 85615.245091038,
+												["x"] = 146335.50846891,
+											}, -- end of [399]
 											[251] = 
 											{
 												["y"] = 85972.907230547,
@@ -45612,21 +45612,21 @@ mission =
 												["y"] = 84546.403366513,
 												["x"] = 141873.22609578,
 											}, -- end of [502]
-											[197] = 
+											[787] = 
 											{
-												["y"] = 85972.328785836,
-												["x"] = 152639.15292774,
-											}, -- end of [197]
+												["y"] = 73055.26005646,
+												["x"] = 138833.81916155,
+											}, -- end of [787]
 											[539] = 
 											{
 												["y"] = 83836.480702108,
 												["x"] = 141494.50484747,
 											}, -- end of [539]
-											[49] = 
+											[782] = 
 											{
-												["y"] = 87041.352670563,
-												["x"] = 160920.38098684,
-											}, -- end of [49]
+												["y"] = 73184.344698195,
+												["x"] = 138988.32695139,
+											}, -- end of [782]
 											[503] = 
 											{
 												["y"] = 84526.432996474,
@@ -45652,16 +45652,16 @@ mission =
 												["y"] = 84506.563884915,
 												["x"] = 141869.92259095,
 											}, -- end of [504]
-											[3] = 
+											[764] = 
 											{
-												["y"] = 91273.148258731,
-												["x"] = 164878.81333069,
-											}, -- end of [3]
-											[191] = 
+												["y"] = 73631.586552253,
+												["x"] = 139648.88019146,
+											}, -- end of [764]
+											[763] = 
 											{
-												["y"] = 86198.930372112,
-												["x"] = 152578.94606611,
-											}, -- end of [191]
+												["y"] = 73641.476953391,
+												["x"] = 139650.35050193,
+											}, -- end of [763]
 											[527] = 
 											{
 												["y"] = 83900.307765946,
@@ -45677,11 +45677,11 @@ mission =
 												["y"] = 83958.627852815,
 												["x"] = 141664.84583321,
 											}, -- end of [523]
-											[751] = 
+											[188] = 
 											{
-												["y"] = 73952.415845105,
-												["x"] = 139613.83989122,
-											}, -- end of [751]
+												["y"] = 86223.055112114,
+												["x"] = 152572.53570183,
+											}, -- end of [188]
 											[253] = 
 											{
 												["y"] = 85982.761398923,
@@ -46152,6 +46152,7 @@ mission =
 			}, -- end of ["rules"]
 			["comment"] = "Trigger Spawn Blue AT Plt",
 			["eventlist"] = "",
+			["predicate"] = "triggerOnce",
 			["actions"] = 
 			{
 				[1] = 
@@ -46195,7 +46196,6 @@ mission =
 					["clearview"] = false,
 				}, -- end of [7]
 			}, -- end of ["actions"]
-			["predicate"] = "triggerOnce",
 		}, -- end of [5]
 		[6] = 
 		{
@@ -46754,17 +46754,17 @@ mission =
 				[1] = 
 				{
 					["coalitionlist"] = "blue",
-					["radiotext"] = "DictKey_ActionRadioText_16",
-					["flag"] = "Trigger Hidden Infantry Spawn",
-					["KeyDict_radiotext"] = "DictKey_ActionRadioText_16",
 					["predicate"] = "a_add_radio_item_for_coalition",
 					["value"] = 1,
+					["KeyDict_radiotext"] = "DictKey_ActionRadioText_16",
+					["radiotext"] = "DictKey_ActionRadioText_16",
+					["flag"] = "Trigger Hidden Infantry Spawn",
 				}, -- end of [1]
 			}, -- end of ["actions"]
 			["colorItem"] = "0xff0000ff",
 		}, -- end of [24]
 	}, -- end of ["trigrules"]
-	["currentKey"] = 94845,
+	["currentKey"] = 101260,
 	["failures"] = {},
 	["forcedOptions"] = 
 	{
