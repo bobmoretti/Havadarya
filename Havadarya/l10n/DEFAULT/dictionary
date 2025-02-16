@@ -1,10 +1,10 @@
 dictionary = 
 {
-	["DictKey_ActionText_9"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
 	["DictKey_descriptionText_1"] = "",
 	["DictKey_ActionText_21"] = "Hidden infantry spawned!",
 	["DictKey_ActionText_20"] = "",
-	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_9"] = "",
 	["DictKey_sortie_5"] = "",
 	["DictKey_ActionRadioText_16"] = "Trigger Hidden Infantry Spawn",
 	["DictKey_descriptionNeutralsTask_4"] = "",
