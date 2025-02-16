@@ -1,0 +1,5 @@
+mapResource = 
+{
+	["ResKey_Action_7"] = "mist_4_5_107.lua",
+	["ResKey_Action_18"] = "Havardaya CTLD v2.lua",
+} -- end of mapResource
